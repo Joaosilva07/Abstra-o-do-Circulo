@@ -1,1 +1,5 @@
-# Abstra-o-do-Circulo
+Este código Python define uma classe chamada "abstracao_circulo," que modela um círculo com propriedades como raio, coordenadas do centro, área e perímetro. A classe permite gerar dados aleatórios para essas propriedades, calcular o ponto central, a área e o perímetro do círculo, desenhá-lo na tela e criar um gráfico de dispersão (scatter plot) para visualizar o círculo.
+
+O código começa instanciando a classe "abstracao_circulo" com um raio inicial. Em seguida, ele gera dados aleatórios para as coordenadas do centro e o raio do círculo. Posteriormente, são calculados o ponto central, a área e o perímetro do círculo com base nas propriedades definidas. Os resultados são impressos na tela e, por fim, o círculo é desenhado com seu raio e coordenadas. Além disso, é gerado um gráfico de dispersão para representar visualmente o círculo.
+
+Este código pode ser usado para fins de modelagem e visualização de círculos, bem como para aprender sobre cálculos relacionados a círculos e gráficos com a biblioteca Matplotlib.
